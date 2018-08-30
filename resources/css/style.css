@@ -3,9 +3,11 @@
   font-family: Helvetica;
 }
 
-p.top{
+li{
   font-size: 18px;
   color: white;
+  padding: 10px;
+  list-style: none;
 }
 
 div.header{
